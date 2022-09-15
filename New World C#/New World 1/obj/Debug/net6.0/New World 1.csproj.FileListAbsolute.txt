@@ -1,0 +1,15 @@
+C:\TP\New World 1\New World 1\bin\Debug\net6.0\New World 1.exe
+C:\TP\New World 1\New World 1\bin\Debug\net6.0\New World 1.deps.json
+C:\TP\New World 1\New World 1\bin\Debug\net6.0\New World 1.runtimeconfig.json
+C:\TP\New World 1\New World 1\bin\Debug\net6.0\New World 1.dll
+C:\TP\New World 1\New World 1\bin\Debug\net6.0\ref\New World 1.dll
+C:\TP\New World 1\New World 1\bin\Debug\net6.0\New World 1.pdb
+C:\TP\New World 1\New World 1\obj\Debug\net6.0\New World 1.csproj.AssemblyReference.cache
+C:\TP\New World 1\New World 1\obj\Debug\net6.0\New World 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\TP\New World 1\New World 1\obj\Debug\net6.0\New World 1.AssemblyInfoInputs.cache
+C:\TP\New World 1\New World 1\obj\Debug\net6.0\New World 1.AssemblyInfo.cs
+C:\TP\New World 1\New World 1\obj\Debug\net6.0\New World 1.csproj.CoreCompileInputs.cache
+C:\TP\New World 1\New World 1\obj\Debug\net6.0\New World 1.dll
+C:\TP\New World 1\New World 1\obj\Debug\net6.0\ref\New World 1.dll
+C:\TP\New World 1\New World 1\obj\Debug\net6.0\New World 1.pdb
+C:\TP\New World 1\New World 1\obj\Debug\net6.0\New World 1.genruntimeconfig.cache
