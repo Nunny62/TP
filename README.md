@@ -56,6 +56,6 @@
 
 **Диаграмма базы данных интернет магазина**
 
-![база данных интенет магазина](https://user-images.githubusercontent.com/105675947/195753971-534c2310-c75d-4674-bb3d-3d565551a723.jpeg)
+![Пустой документ - Страница 1 (2)](https://user-images.githubusercontent.com/105675947/198406426-3533aa01-af1e-40f2-be73-4ca780eaec91.png)
 
 
