@@ -72,11 +72,11 @@ BPMN (англ. Business Process Model and Notation, нотация и моде�
 
 ## 1.4  USE case модель ##
 
-
+![22 drawio](https://user-images.githubusercontent.com/105675947/201225091-d208196a-016a-4814-ac19-ee6277e43454.png)
 
 ## 1.5  Диаграмма базы данных интернет магазина ##
 
-![Пустой документ - Страница 1 (2)](https://user-images.githubusercontent.com/105675947/198406426-3533aa01-af1e-40f2-be73-4ca780eaec91.png)
+![Screenshot_4](https://user-images.githubusercontent.com/105675947/201224519-ce5fc2f9-90c7-4dc5-a4a8-5b93f6a41c9f.png)
 
 
 
