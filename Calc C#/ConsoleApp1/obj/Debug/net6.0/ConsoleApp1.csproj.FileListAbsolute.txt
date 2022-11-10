@@ -13,3 +13,18 @@ C:\TP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
 C:\TP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 C:\TP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 C:\TP\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\TP\Calc C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\TP\Calc C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\TP\Calc C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\TP\Calc C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\TP\Calc C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\TP\Calc C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\TP\Calc C#\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\TP\Calc C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\TP\Calc C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\TP\Calc C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\TP\Calc C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\TP\Calc C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\TP\Calc C#\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+C:\TP\Calc C#\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\TP\Calc C#\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
