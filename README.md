@@ -163,9 +163,7 @@ BPMN (англ. Business Process Model and Notation, нотация и моде�
 </p>
 Далле создаются контроллеры с методами CRUD [7] (см. рисунок 8-9).
 <p align="center">
- 
-![Screenshot_5](https://user-images.githubusercontent.com/105675947/203874068-01b827c8-2d52-48a6-b106-ca9b11ecec8d.png)<br>
-
+<img src="https://user-images.githubusercontent.com/105675947/203874068-01b827c8-2d52-48a6-b106-ca9b11ecec8d.png"<br>
 </p>
 <p align="center">
 Рисунок 8 - Контроллер класса "Клиент"
