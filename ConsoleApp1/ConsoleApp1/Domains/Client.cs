@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Practice2.Domains
 {
     public class Client
     {
-        public int IDClient { get; set; }
+        public int ClientID { get; set; }
 
         public string Full_name { get; set; }
 

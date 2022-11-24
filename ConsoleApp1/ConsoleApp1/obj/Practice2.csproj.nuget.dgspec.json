@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\TP\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\TP\\ConsoleApp1\\ConsoleApp1\\Practice2.csproj": {}
   },
   "projects": {
-    "C:\\TP\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\TP\\ConsoleApp1\\ConsoleApp1\\Practice2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\TP\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\TP\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\TP\\ConsoleApp1\\ConsoleApp1\\Practice2.csproj",
+        "projectName": "Practice2",
+        "projectPath": "C:\\TP\\ConsoleApp1\\ConsoleApp1\\Practice2.csproj",
         "packagesPath": "C:\\Users\\Nunny\\.nuget\\packages\\",
         "outputPath": "C:\\TP\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
@@ -40,6 +40,18 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.10, )"
@@ -47,6 +59,10 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

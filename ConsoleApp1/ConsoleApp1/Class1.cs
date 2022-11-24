@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -22,4 +22,4 @@ namespace Practice2
             optionsBuilder.UseSqlServer(connectionString);
         }
     }
-}
+}*/

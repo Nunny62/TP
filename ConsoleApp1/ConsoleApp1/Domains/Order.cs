@@ -6,20 +6,20 @@ using System.Text;
 using System.IO;
 using System.ComponentModel.DataAnnotations;
 
-namespace Practice2
+namespace Practice2.Domains
 {
     public class Order
     {
         [Key]
-        public int IDOrder { get; set; }
+        public int OrderID { get; set; }
 
-        public int IDEmployee { get; set; }
+        public int EmployeeID { get; set; }
 
-        public int IDClient { get; set; }
+        public int ClientID { get; set; }
 
-        public int IDDelivery { get; set; }
+        public int DeliveryID { get; set; }
 
-        public int IDMaking_an_order { get; set; }
+        public int Making_an_orderID { get; set; }
 
         public string Payment_type { get; set; }
 
