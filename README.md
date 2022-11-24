@@ -161,7 +161,7 @@ BPMN (англ. Business Process Model and Notation, нотация и моде�
 Рисунок 8 - Контроллер класса "Клиент"
 </p>
 <p align="center">
-
+<img src="https://user-images.githubusercontent.com/105675947/203874784-f8e886e9-740f-404a-bec4-e3e6bc3818e9.png"<br>
  </p>
 <p align="center">
 Рисунок 9 - Список созданных контроллеров
