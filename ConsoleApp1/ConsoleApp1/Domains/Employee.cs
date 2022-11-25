@@ -8,7 +8,7 @@ namespace Practice2.Domains
 {
     public class Employee
     {
-        public int IDEmployee { get; set; }
+        public int EmployeeID { get; set; }
 
         public string Full_name { get; set; }
 

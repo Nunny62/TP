@@ -1,5 +1,8 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using Practice2.Domains;
+using System.Collections.Generic;
 using System.Data.SqlClient;
+
 
 namespace Practice2.Repository
 {

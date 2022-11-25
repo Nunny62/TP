@@ -8,7 +8,7 @@ namespace Practice2.Domains
 {
     public class Delivery
     {
-        public int IDDelivery { get; set; }
+        public int DeliveryID { get; set; }
 
         public string Type_of_delivery { get; set; }
 

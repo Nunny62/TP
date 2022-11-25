@@ -8,7 +8,7 @@ namespace Practice2.Domains
 {
     public class Product
     {
-        public int IDProduct { get; set; }
+        public int ProductID { get; set; }
 
         public string Product_name { get; set; }
 
@@ -18,7 +18,7 @@ namespace Practice2.Domains
 
         public decimal? Assessment { get; set; }
 
-        public int? IDTest { get; set; }
+        public int? TestID { get; set; }
 
     }
 }

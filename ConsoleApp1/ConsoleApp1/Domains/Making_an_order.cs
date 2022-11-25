@@ -8,11 +8,11 @@ namespace Practice2.Domains
 {
     public class Making_an_order
     {
-        public int IDMaking_an_order { get; set; }
+        public int Making_an_orderID { get; set; }
 
-        public int IDOrder { get; set; }
+        public int OrderID { get; set; }
 
-        public int IDProduct { get; set; }
+        public int ProductID { get; set; }
 
         public int? Quantity { get; set; }
 

@@ -8,7 +8,7 @@ namespace Practice2.Domains
 {
     public class Test
     {
-        public int IDTest { get; set; }
+        public int TestID { get; set; }
 
         public string Product_name { get; set; }
 

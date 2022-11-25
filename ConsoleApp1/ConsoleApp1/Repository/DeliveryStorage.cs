@@ -1,12 +1,33 @@
 ﻿using System;
+using Practice2.Domains;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Data.SqlClient;
 
 namespace Practice2.Repository
 {
-    internal class Class1
+    public class DeliveryStorage
     {
+        private Dictionary<int, Delivery> Deliveries { get; } = new Dictionary<int, Delivery>();
+
+        public void Create(Delivery delivery)
+        {
+            Deliveries.Add(delivery.DeliveryID, delivery);
+        }
+
+        public Delivery Read(int deliveryID)
+        {
+            return Deliveries[deliveryID];
+        }
+
+        public Delivery Update(int deliveryID, Delivery newDelivery)
+        {
+            Deliveries[deliveryID] = newDelivery;
+            return Deliveries[deliveryID];
+        }
+
+        public bool Delete(int deliveryID)
+        {
+            return Deliveries.Remove(deliveryID);
+        }
     }
 }
