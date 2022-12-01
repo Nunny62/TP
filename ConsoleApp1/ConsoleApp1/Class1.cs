@@ -1,12 +1,12 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using System.Text;
 using System.IO;
+using laba_4.Domains;
 
-
-namespace Practice2
+namespace laba_4
 {
     public class ApplicationContext : DbContext
     {
@@ -15,11 +15,11 @@ namespace Practice2
         {
             var builder = new ConfigurationBuilder();
             builder.SetBasePath(Directory.GetCurrentDirectory());
-            builder.AddJsonFile("appconfig.json");
+            builder.AddJsonFile("app.json");
             var config = builder.Build();
             string connectionString = config.GetConnectionString("DefaultConnection");
 
             optionsBuilder.UseSqlServer(connectionString);
         }
     }
-}*/
+}
