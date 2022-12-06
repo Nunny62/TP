@@ -14,7 +14,7 @@ namespace lab4vr2.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Server=.\\SQLExpress;Database=Practice;Trusted_Connection=true;TrustServerCertificate=true;");
+            optionsBuilder.UseSqlServer("Server=.\\SQLExpress;Database=Practice22;Trusted_Connection=true;TrustServerCertificate=true;");
         }
 
         public DbSet<Order> Order { get; set; }
